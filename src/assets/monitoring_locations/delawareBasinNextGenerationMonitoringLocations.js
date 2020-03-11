@@ -15,6 +15,7 @@ export default {
                             "physiographic_region_1",
                             "test_bed"
                         ],
+                        "streamTemp": 20,
                         "latitude": 42.1661111,
                         "longitude": -75.14002778,
                         "flyToCommands": {
@@ -50,6 +51,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_2"
                         ],
+                        "streamTemp": 30,
                         "latitude": 42.1661111,
                         "longitude": -75.14002778,
                         "flyToCommands": {
@@ -85,6 +87,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_3"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.1471111,
                         "longitude": -74.9052222,
                         "flyToCommands": {
@@ -121,6 +124,7 @@ export default {
                             "physiographic_region_4",
                             "test_bed"
                         ],
+                        "streamTemp": 50,
                         "latitude": 42.1447222,
                         "longitude": -74.6536111,
                         "flyToCommands": {
@@ -157,6 +161,7 @@ export default {
                             "physiographic_region_5",
                             "test_bed"
                         ],
+                        "streamTemp": 60,
                         "latitude": 42.1447222,
                         "longitude": -74.6536111,
                         "flyToCommands": {
@@ -191,6 +196,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.13306,
                         "longitude": -74.69556,
                         "flyToCommands": {
@@ -227,6 +233,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 42.12,
                         "longitude": -74.8186111,
                         "flyToCommands": {
@@ -263,6 +270,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.1061111,
                         "longitude": -74.7305556,
                         "flyToCommands": {
@@ -298,6 +306,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 42.0773095,
                         "longitude": -74.9673856,
                         "flyToCommands": {
@@ -333,6 +342,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.0773095,
                         "longitude": -74.9673856,
                         "flyToCommands": {
@@ -368,6 +378,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.075,
                         "longitude": -74.97638889,
                         "flyToCommands": {
@@ -402,6 +413,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 42.07491667,
                         "longitude": -75.3958056,
                         "flyToCommands": {
@@ -437,6 +449,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.0628618,
                         "longitude": -75.3798977,
                         "flyToCommands": {
@@ -472,6 +485,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.0586111,
                         "longitude": -75.4280556,
                         "flyToCommands": {
@@ -507,6 +521,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 42.0111111,
                         "longitude": -74.4144444,
                         "flyToCommands": {
@@ -542,6 +557,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 42.00302778,
                         "longitude": -75.38352778,
                         "flyToCommands": {
@@ -578,6 +594,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.9960833,
                         "longitude": -74.5002222,
                         "flyToCommands": {
@@ -612,6 +629,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.97355556,
                         "longitude": -75.1751944,
                         "flyToCommands": {
@@ -647,6 +665,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.96694444,
                         "longitude": -74.4480556,
                         "flyToCommands": {
@@ -682,6 +701,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.94641667,
                         "longitude": -74.9796667,
                         "flyToCommands": {
@@ -718,6 +738,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.92527778,
                         "longitude": -74.54027778,
                         "flyToCommands": {
@@ -754,6 +775,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.92027778,
                         "longitude": -74.5747222,
                         "flyToCommands": {
@@ -788,6 +810,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.92027778,
                         "longitude": -74.5747222,
                         "flyToCommands": {
@@ -823,6 +846,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.9033333,
                         "longitude": -74.81277778,
                         "flyToCommands": {
@@ -859,6 +883,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.89,
                         "longitude": -74.59,
                         "flyToCommands": {
@@ -893,6 +918,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.89,
                         "longitude": -74.59,
                         "flyToCommands": {
@@ -929,6 +955,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.86727778,
                         "longitude": -75.21375,
                         "flyToCommands": {
@@ -964,6 +991,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.8521111,
                         "longitude": -74.51302778,
                         "flyToCommands": {
@@ -998,6 +1026,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.845555,
                         "longitude": -74.536083,
                         "flyToCommands": {
@@ -1033,6 +1062,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.84027778,
                         "longitude": -75.2383333,
                         "flyToCommands": {
@@ -1068,6 +1098,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.82786867,
                         "longitude": -74.6387701,
                         "flyToCommands": {
@@ -1104,6 +1135,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.82,
                         "longitude": -74.6355556,
                         "flyToCommands": {
@@ -1139,6 +1171,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.82,
                         "longitude": -74.6355556,
                         "flyToCommands": {
@@ -1174,6 +1207,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.76055556,
                         "longitude": -75.04838889,
                         "flyToCommands": {
@@ -1208,6 +1242,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.75675,
                         "longitude": -75.0574167,
                         "flyToCommands": {
@@ -1242,6 +1277,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.75675,
                         "longitude": -75.0574167,
                         "flyToCommands": {
@@ -1277,6 +1313,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 41.6678695,
                         "longitude": -74.6229383,
                         "flyToCommands": {
@@ -1313,6 +1350,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.63805556,
                         "longitude": -74.61688889,
                         "flyToCommands": {
@@ -1348,6 +1386,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.5986111,
                         "longitude": -74.4686111,
                         "flyToCommands": {
@@ -1383,6 +1422,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.56388889,
                         "longitude": -75.0144444,
                         "flyToCommands": {
@@ -1417,6 +1457,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.50875,
                         "longitude": -74.9860556,
                         "flyToCommands": {
@@ -1451,6 +1492,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.4762002,
                         "longitude": -75.1721186,
                         "flyToCommands": {
@@ -1487,6 +1529,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.47536824,
                         "longitude": -74.91238898,
                         "flyToCommands": {
@@ -1522,6 +1565,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.469417,
                         "longitude": -75.108944,
                         "flyToCommands": {
@@ -1556,6 +1600,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.4612222,
                         "longitude": -74.75877778,
                         "flyToCommands": {
@@ -1591,6 +1636,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.45342667,
                         "longitude": -74.58849408,
                         "flyToCommands": {
@@ -1626,6 +1672,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.45,
                         "longitude": -74.9216667,
                         "flyToCommands": {
@@ -1662,6 +1709,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.4411111,
                         "longitude": -74.6019444,
                         "flyToCommands": {
@@ -1698,6 +1746,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 41.4411111,
                         "longitude": -74.6019444,
                         "flyToCommands": {
@@ -1734,6 +1783,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.37055556,
                         "longitude": -74.6975,
                         "flyToCommands": {
@@ -1768,6 +1818,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.37055556,
                         "longitude": -74.6975,
                         "flyToCommands": {
@@ -1804,6 +1855,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.30916667,
                         "longitude": -74.79527778,
                         "flyToCommands": {
@@ -1838,6 +1890,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.30916667,
                         "longitude": -74.79527778,
                         "flyToCommands": {
@@ -1874,6 +1927,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 41.1061111,
                         "longitude": -74.9525,
                         "flyToCommands": {
@@ -1910,6 +1964,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 41.08815078,
                         "longitude": -75.03767469,
                         "flyToCommands": {
@@ -1946,6 +2001,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 41.0848148,
                         "longitude": -75.2146251,
                         "flyToCommands": {
@@ -1983,6 +2039,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.82638889,
                         "longitude": -75.0825,
                         "flyToCommands": {
@@ -2019,6 +2076,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 40.66176219,
                         "longitude": -75.626854,
                         "flyToCommands": {
@@ -2054,6 +2112,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 40.6354722,
                         "longitude": -75.16863889,
                         "flyToCommands": {
@@ -2090,6 +2149,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 40.59639,
                         "longitude": -75.4744,
                         "flyToCommands": {
@@ -2125,6 +2185,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 40.5947222,
                         "longitude": -75.1897222,
                         "flyToCommands": {
@@ -2161,6 +2222,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.5873195,
                         "longitude": -75.4968502,
                         "flyToCommands": {
@@ -2196,6 +2258,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.58722,
                         "longitude": -75.4972,
                         "flyToCommands": {
@@ -2232,6 +2295,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.5822,
                         "longitude": -75.4833,
                         "flyToCommands": {
@@ -2267,6 +2331,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.57949,
                         "longitude": -75.5532,
                         "flyToCommands": {
@@ -2302,6 +2367,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.57094,
                         "longitude": -75.6534,
                         "flyToCommands": {
@@ -2337,6 +2403,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 40.53583,
                         "longitude": -75.5393,
                         "flyToCommands": {
@@ -2372,6 +2439,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.53120755,
                         "longitude": -75.60046519,
                         "flyToCommands": {
@@ -2406,6 +2474,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 40.5261111,
                         "longitude": -75.065,
                         "flyToCommands": {
@@ -2441,6 +2510,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.516944,
                         "longitude": -74.991667,
                         "flyToCommands": {
@@ -2476,6 +2546,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 40.3647222,
                         "longitude": -74.94888889,
                         "flyToCommands": {
@@ -2511,6 +2582,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.339538,
                         "longitude": -75.7421359,
                         "flyToCommands": {
@@ -2547,6 +2619,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 40.22954725,
                         "longitude": -75.451567,
                         "flyToCommands": {
@@ -2582,6 +2655,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.22166667,
                         "longitude": -74.7780556,
                         "flyToCommands": {
@@ -2617,6 +2691,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 40.18916667,
                         "longitude": -74.7558333,
                         "flyToCommands": {
@@ -2651,6 +2726,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.18916667,
                         "longitude": -74.7558333,
                         "flyToCommands": {
@@ -2688,6 +2764,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.1739982,
                         "longitude": -74.9568342,
                         "flyToCommands": {
@@ -2724,6 +2801,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.1372222,
                         "longitude": -74.6,
                         "flyToCommands": {
@@ -2758,6 +2836,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.12722,
                         "longitude": -75.3453,
                         "flyToCommands": {
@@ -2793,6 +2872,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 40.0361111,
                         "longitude": -74.5361111,
                         "flyToCommands": {
@@ -2829,6 +2909,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 40.029167,
                         "longitude": -74.931667,
                         "flyToCommands": {
@@ -2864,6 +2945,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 40.0159454,
                         "longitude": -75.0968411,
                         "flyToCommands": {
@@ -2899,6 +2981,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 40.01513889,
                         "longitude": -75.0176944,
                         "flyToCommands": {
@@ -2933,6 +3016,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 40.01513889,
                         "longitude": -75.0176944,
                         "flyToCommands": {
@@ -2969,6 +3053,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.99305556,
                         "longitude": -74.78138889,
                         "flyToCommands": {
@@ -3005,6 +3090,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.97,
                         "longitude": -74.6844444,
                         "flyToCommands": {
@@ -3041,6 +3127,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.9678905,
                         "longitude": -75.1885123,
                         "flyToCommands": {
@@ -3077,6 +3164,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.9561111,
                         "longitude": -74.62777778,
                         "flyToCommands": {
@@ -3112,6 +3200,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.95400165,
                         "longitude": -75.1373987,
                         "flyToCommands": {
@@ -3145,6 +3234,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.946042,
                         "longitude": -75.139832,
                         "flyToCommands": {
@@ -3181,6 +3271,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.94166667,
                         "longitude": -75.0011111,
                         "flyToCommands": {
@@ -3217,6 +3308,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.94,
                         "longitude": -74.7630556,
                         "flyToCommands": {
@@ -3251,6 +3343,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.9295515,
                         "longitude": -75.82300028,
                         "flyToCommands": {
@@ -3286,6 +3379,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 20,
                         "latitude": 39.92900154,
                         "longitude": -75.2724064,
                         "flyToCommands": {
@@ -3322,6 +3416,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.90305556,
                         "longitude": -75.02138889,
                         "flyToCommands": {
@@ -3358,6 +3453,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.89527778,
                         "longitude": -74.8236111,
                         "flyToCommands": {
@@ -3394,6 +3490,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.885,
                         "longitude": -74.50527778,
                         "flyToCommands": {
@@ -3430,6 +3527,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.8792798,
                         "longitude": -75.20268029,
                         "flyToCommands": {
@@ -3465,6 +3563,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.8698328,
                         "longitude": -75.5932623,
                         "flyToCommands": {
@@ -3501,6 +3600,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.867722,
                         "longitude": -74.84175,
                         "flyToCommands": {
@@ -3537,6 +3637,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.858651,
                         "longitude": -75.7833,
                         "flyToCommands": {
@@ -3573,6 +3674,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.84555556,
                         "longitude": -75.3508333,
                         "flyToCommands": {
@@ -3608,6 +3710,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.8326,
                         "longitude": -75.8451,
                         "flyToCommands": {
@@ -3644,6 +3747,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.82833,
                         "longitude": -75.7811,
                         "flyToCommands": {
@@ -3680,6 +3784,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.82177,
                         "longitude": -75.7791,
                         "flyToCommands": {
@@ -3715,6 +3820,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.76566619,
                         "longitude": -75.7960492,
                         "flyToCommands": {
@@ -3750,6 +3856,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.76280556,
                         "longitude": -75.6365,
                         "flyToCommands": {
@@ -3786,6 +3893,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.7475,
                         "longitude": -75.7708,
                         "flyToCommands": {
@@ -3822,6 +3930,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.74055556,
                         "longitude": -75.2591667,
                         "flyToCommands": {
@@ -3858,6 +3967,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.7068861,
                         "longitude": -75.6950944,
                         "flyToCommands": {
@@ -3894,6 +4004,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.6992222,
                         "longitude": -75.67502778,
                         "flyToCommands": {
@@ -3929,6 +4040,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.6892222,
                         "longitude": -75.74875,
                         "flyToCommands": {
@@ -3964,6 +4076,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 30,
                         "latitude": 39.6892222,
                         "longitude": -75.74875,
                         "flyToCommands": {
@@ -4000,6 +4113,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.68848,
                         "longitude": -75.52,
                         "flyToCommands": {
@@ -4035,6 +4149,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.6861111,
                         "longitude": -75.1844444,
                         "flyToCommands": {
@@ -4070,6 +4185,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.63738889,
                         "longitude": -75.72788889,
                         "flyToCommands": {
@@ -4106,6 +4222,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 60,
                         "latitude": 39.55405556,
                         "longitude": -75.61888889,
                         "flyToCommands": {
@@ -4141,6 +4258,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.5086111,
                         "longitude": -75.4605556,
                         "flyToCommands": {
@@ -4175,6 +4293,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.5086111,
                         "longitude": -75.4605556,
                         "flyToCommands": {
@@ -4209,6 +4328,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 39.41916667,
                         "longitude": -74.9658333,
                         "flyToCommands": {
@@ -4243,6 +4363,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 40,
                         "latitude": 39.37305556,
                         "longitude": -74.9447222,
                         "flyToCommands": {
@@ -4279,6 +4400,7 @@ export default {
                             "delaware_basin",
                             "physiographic_region_1"
                         ],
+                        "streamTemp": 50,
                         "latitude": 38.90577778,
                         "longitude": -75.51275,
                         "flyToCommands": {

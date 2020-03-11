@@ -1,5 +1,6 @@
 <template>
   <div id="story-chapters-container">
+    <D3Transition />
     <D3Rings />
     <div id="chapters">
       <div
@@ -13,8 +14,8 @@
         >
           <div
             v-show="!isTourRunning"
-            @click="moveToLocation(chapter.flyToCommands, chapter.id), toggleLayerVisibility(chapter.id, chapter.layersToHide, chapter.hiddenLayersToShow), addMonitoringLocationRings(chapter.D3Rings), chapter.isText ? toggleTextOverlay(state='on', chapter.html) : toggleTextOverlay(state='off', null)"
-            @mouseover="moveToLocation(chapter.flyToCommands, chapter.id), toggleLayerVisibility(chapter.id, chapter.layersToHide, chapter.hiddenLayersToShow), addMonitoringLocationRings(chapter.D3Rings), chapter.isText ? toggleTextOverlay(state='on', chapter.html) : toggleTextOverlay(state='off', null)"
+            @click="moveToLocation(chapter.flyToCommands, chapter.id), toggleLayerVisibility(chapter.id, chapter.layersToHide, chapter.hiddenLayersToShow), addD3Circles(chapter.swipe), addMonitoringLocationRings(chapter.D3Rings), chapter.isText ? toggleTextOverlay(state='on', chapter.html) : toggleTextOverlay(state='off', null)"
+            @mouseover="moveToLocation(chapter.flyToCommands, chapter.id), toggleLayerVisibility(chapter.id, chapter.layersToHide, chapter.hiddenLayersToShow), addD3Circles(chapter.swipe), addMonitoringLocationRings(chapter.D3Rings), chapter.isText ? toggleTextOverlay(state='on', chapter.html) : toggleTextOverlay(state='off', null)"
           >
             <h3>{{ chapter.title }}</h3>
             <p>
@@ -61,6 +62,12 @@
             >
               pause the tour
             </button>
+            <button 
+              v-if="chapter.swipe" 
+              @click="$root.$emit('Transition');"
+            >
+              Transition
+            </button>
           </div>
         </section>
       </div>
@@ -73,12 +80,14 @@
     import delawareBasinNextGenerationMonitoringLocations
         from "../assets/monitoring_locations/delawareBasinNextGenerationMonitoringLocations";
     import D3Rings from './D3Rings';
+    import D3Transition from './D3ChartTransition';
     import generalColorAndStyle from "../assets/mapStyleConstants/generalColorAndStyle";
 
     export default {
         name: "StoryBoard",
         components:{
-          D3Rings
+          D3Rings,
+          D3Transition
         },
         data() {
             return {
@@ -281,6 +290,13 @@
                     mapCanvas.style.opacity="1";
                     mapOverlay.innerHTML = '';
                 }
+            },
+            addD3Circles(swipe){
+              if(swipe){
+                this.$root.$emit('CreateCircles');
+              }else{
+                this.$root.$emit('RemoveCircles');
+              }
             },
             addMonitoringLocationRings(D3Rings){
               if(D3Rings === true){

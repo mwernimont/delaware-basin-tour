@@ -14,6 +14,26 @@ export default {
             "D3Rings": false
         },
         {
+            "id": "D3Transition",
+            "class": "",
+            "flyToCommands": {
+                "duration": 0,
+                "bearing": 0,
+                "center": [-74.9214, 40.4467],
+                "zoom": 6.5,
+                "pitch": 20,
+                "speed": 1,
+                "essential": true
+            },
+            "title": "Sample Functionality Test",
+            "content": "Can we get the map to transition to a graph and back again?",
+            "tourType": "none",
+            "swipe": true,
+            "layersToHide": ["monitoring-location-clusters", "monitoring-location-cluster-count", "monitoring-location-unclustered-point", "cameras", "enhanced_gage", "temperature", "new_gage", "specific_conductance", "physiographic_provinces"],
+            "hiddenLayersToShow": ["drb_boundary"],
+            "D3Rings": false
+        },
+        {
             "id": "basin-intro",
             "class": "",
             "flyToCommands": {
